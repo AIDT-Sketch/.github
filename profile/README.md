@@ -1,3 +1,5 @@
+![AIDT Header](https://raw.githubusercontent.com/AIDT-Sketch/.github/main/assets/Header.png)
+
 # 🚀 AIDT Demo Organization
 
 This is a sketch GitHub organization to demonstrate our approach for deploying Knowledge Graph and Evaluators infrastructure. The team can walk through these repos to understand the proposed structure before building the production version.
